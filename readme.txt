@@ -5,6 +5,7 @@ Requires at least: 2.0
 Tested up to: 4.2
 Stable tag: trunk
 License: GPL2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Adds the FooDoo link icon to all posts/recipes, for getting ingredients in a shopping list in the FooDoo mobile app.
 
@@ -18,3 +19,7 @@ Find more information about FooDoo here:
 https://itunes.apple.com/dk/app/foodoo/id920592567?mt=8
  
 If you have any questions or problems please contact your FooDoo contact person or email us at partner@cromian.com
+
+== Screenshots ==
+1. FooDoo link icon inserted beside the \'Ingredients\' headline
+2. FooDoo link icon inserted at the bottom of the recipe because there is no \'Ingredient\' headline
