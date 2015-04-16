@@ -3,7 +3,7 @@
 /**
  * Plugin Name: FooDoo
  * Plugin URI: https://cromian.com/foodoo/plugins/wordpress/foodoo.zip
- * Description: Adds the FooDoo link icon to all posts/recipes, for getting ingredients in a shopping list in the FooDoo mobile app.
+ * Description: Adds the FooDoo link icon to all posts/recipes, for getting ingredients in a shopping list in the mobile app FooDoo.
  * Tags: FooDoo, Foodoo, Food, App, Mobile, Ingredients, Shopping list, Grocery, iPhone, Android, Partner
  * Version: 1.0.0
  * Author: Cromian
